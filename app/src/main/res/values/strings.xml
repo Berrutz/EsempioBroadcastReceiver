@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EsempioBroadcastReceiver</string>
+    <string name="ACTION_BR">com.example.esempiobroadcastreceiver.br.MyBroadcastReceiver</string>
+    <string name="STRING_MEX">STRING MESSAGE</string>
+</resources>
