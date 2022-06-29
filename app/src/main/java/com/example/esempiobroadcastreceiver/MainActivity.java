@@ -12,7 +12,7 @@ import android.widget.EditText;
 
 import com.example.esempiobroadcastreceiver.br.MyBroadcastReceiver;
 
-/* Invia un messaggio in broadcast e tutti lo ascoltano poi chi vuole se ne accorge ( es. collegato a un wifi ) */
+/* Invia un messaggio in broadcast e tutti lo ascoltano poi chi vuoleEEE se ne accorge ( es. collegato a un wifi ) */
 public class MainActivity extends AppCompatActivity {
 
     private EditText etText = null;
